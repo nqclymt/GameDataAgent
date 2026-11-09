@@ -1,0 +1,13 @@
+"""温暖奶油色调主题常量（Solarized Light 风格）。"""
+
+BG = "#FDF6E3"
+PANEL = "#F5EEDC"
+MENU = "#FBF4E2"
+BORDER = "#E8DFC8"
+FG = "#3E3A33"
+MUTED = "#8C8375"
+ACCENT = "#1E3A8A"
+ACCENT_SOFT = "#E7EEF9"
+DANGER = "#C0392B"
+WARNING = "#B45309"
+SUCCESS = "#2E7D32"

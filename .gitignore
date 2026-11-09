@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+env/
+
+# 打包产物（体积大，不进仓库；发版走 GitHub Releases）
+build/
+build_*/
+dist/
+dist_*/
+release/
+*.spec
+
+# 运行数据
+saved/
+output/
+*.log
+_err.txt
+
+# 临时验证文件与目录
+_*.png
+_*.txt
+_*.py
+_*.log
+/_ziptest/
+/_icontest/
+icon_options.png
